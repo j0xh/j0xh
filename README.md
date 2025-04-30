@@ -28,12 +28,12 @@ I’m an 18-year-old **South African** cybersecurity student crafting real-world
 
 ## ⚙️ Skills & Stack
 
-| Category     | Tools & Tech                                                                 |
+| Category     | Tools & Tech                                                                                       |
 |--------------|------------------------------------------------------------------------------|
-| **Languages** | `Python`, `C`, `Bash`, `HTML` <br><sub>(Actively improving low-level fluency)</sub> |
+| **Languages** | `Python`, `C`, `Bash`, `HTML` <br><sub>(Actively improving low-level fluency)</sub>               |
 | **Security**  | `Burp Suite`, `Nmap`, `Wireshark`, `Kali Linux`, `OpenSSL`, `Metasploit and other frameworks`     |
-| **Embedded**  | `ESP32`, `Arduino`, `I2C/SPI`, `MicroPython`                                |
-| **Tooling**   | `SHA-256`, `PBKDF2`, `HWID Binding/Authorization`, `Webhook Auditing`, `File Shredding`    |
+| **Embedded**  | `ESP32`, `Arduino`                                                                             |
+| **Tooling**   | `SHA-256`, `PBKDF2`, `HWID Binding/Authorization`, `Webhook Auditing`, `File Shredding`           |
 
 ---
 
