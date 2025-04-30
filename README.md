@@ -17,7 +17,7 @@
 
 ##  About Me
 
-I’m an 18-year-old cybersecurity student crafting real-world offensive and defensive tooling with a sharp focus on **practicality**, **precision**, and **post-exploitation control**.
+I’m an 18-year-old **South African** cybersecurity student crafting real-world offensive and defensive tooling with a sharp focus on **practicality**, **precision**, and **post-exploitation control**.
 
 -  Recon & OSINT tooling (automated & stealth)
 -  Custom encryption with signature verification & hardened anti-crack logic
