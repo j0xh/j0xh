@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Security%20-%20+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux%20Mastery-Ongoing-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/OSCP-Upcoming-ff5555?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=j0xh&style=flat-square&color=gray" alt="GitHub Profile Views" />
+</p>
+
+
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/1199368375655202816/1367234285320409188/dXitPOb.png?ex=6813d7a7&is=68128627&hm=11a7a66ee11937ad6b8d0fd11e93e1c098c832d7113d8bc4c677c3d0d21fee7c&" alt="j0xh banner" />
 </p>
 
@@ -10,12 +18,7 @@
   One exploit at a time. Maybe 5.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20-%20+-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20Mastery-Ongoing-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSCP-Upcoming-ff5555?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=j0xh&style=flat-square&color=gray" alt="GitHub Profile Views" />
-</p>
+
 
 ---
 
