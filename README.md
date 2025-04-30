@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1199368375655202816/1367234285320409188/dXitPOb.png?ex=6813d7a7&is=68128627&hm=11a7a66ee11937ad6b8d0fd11e93e1c098c832d7113d8bc4c677c3d0d21fee7c&" alt="j0xh banner" />
+</p>
+
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; letter-spacing: 1px;">
   j0xh
 </h1>
@@ -15,33 +19,33 @@
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 I’m an 18-year-old **South African** cybersecurity student crafting real-world offensive and defensive tooling with a sharp focus on **practicality**, **precision**, and **post-exploitation control**.
 
--  Recon & OSINT tooling (automated & stealth)
--  Custom encryption with signature verification & hardened anti-crack logic
--  Microcontroller attacks (ESP32-based captive portals, fuzzers, handshakes)
--  File-based & embedded toolkits (mostly Python & C)
+- Recon & OSINT tooling (automated & stealth)
+- Custom encryption with signature verification & hardened anti-crack logic
+- Microcontroller attacks (ESP32-based captive portals, fuzzers, handshakes)
+- File-based & embedded toolkits (mostly Python & C)
 
 ---
 
 ## ⚙️ Skills & Stack
 
 | Category     | Tools & Tech                                                                                       |
-|--------------|------------------------------------------------------------------------------|
+|--------------|----------------------------------------------------------------------------------------------------|
 | **Languages** | `Python`, `C`, `Bash`, `HTML` <br><sub>(Actively improving low-level fluency)</sub>               |
-| **Security**  | `Burp Suite`, `Nmap`, `Wireshark`, `Kali Linux`, `OpenSSL`, `Metasploit and other frameworks`     |
-| **Embedded**  | `ESP32`, `Arduino`                                                                             |
+| **Security**  | `Burp Suite`, `Nmap`, `Wireshark`, `Kali Linux`, `OpenSSL`, `Metasploit`                          |
+| **Embedded**  | `ESP32`, `Arduino`                                                                                |
 | **Tooling**   | `SHA-256`, `PBKDF2`, `HWID Binding/Authorization`, `Webhook Auditing`, `File Shredding`           |
 
 ---
 
 ## 🎯 Current Objectives
 
--  Finalize cert prep: `Security+`, `Linux+`, `Network+`, and `OSCP`
--  Expand offensive tooling skillset & methodology fluency
--  Build out red team automation: recon, exfil, stealth persistence
+- Finalize cert prep: `Security+`, `Linux+`, `Network+`, and `OSCP`
+- Expand offensive tooling skillset & methodology fluency
+- Build out red team automation: recon, exfil, stealth persistence
 
 ---
 
