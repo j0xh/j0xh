@@ -6,10 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1199368375655202816/1367234285320409188/dXitPOb.png?ex=6813d7a7&is=68128627&hm=11a7a66ee11937ad6b8d0fd11e93e1c098c832d7113d8bc4c677c3d0d21fee7c&" alt="j0xh banner" />
-</p>
-
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; letter-spacing: 1px;">
 
 </h1>
