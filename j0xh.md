@@ -153,7 +153,7 @@ If you believe one of my tools or repos raises security concerns or could be mis
 | Platform | Link |
 
 
-| **Email** | [`j0xhsec@proton.me`](mailto:xorsecret@proton.me) |
+| **Email** | [`xorsecret@proton.me`](mailto:xorsecret@proton.me) |
 
 
 | **GitHub** | [github.com/j0xh](https://github.com/j0xh) |
@@ -169,4 +169,5 @@ Security is non-negotiable.
 
 
 </i></sub>
+
 
