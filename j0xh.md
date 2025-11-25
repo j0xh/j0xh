@@ -2,7 +2,10 @@
 
 
   <img src="https://i.ibb.co/PG11fT0S/1051082n9y27qwafc.gif" alt="" />
-
+  
+<p align="center" style="font-size: 16px; color: #555; font-style: italic;">
+  
+One payload at a time
 
 </p>
 
@@ -22,22 +25,10 @@
 
 
 
-<p align="center" style="font-size: 16px; color: #555; font-style: italic;">
-
-
-  One exploit at a time. Maybe 5.
-
-
-</p>
-
-
-
-
-
 <p align="center">
 
 
-  <img src="https://img.shields.io/badge/Security%20-%20+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security+%20-%20Ongoing-blue?style=flat-square" />
 
 
   <img src="https://img.shields.io/badge/Linux%20Mastery-Ongoing-lightgrey?style=flat-square" />
@@ -61,29 +52,15 @@
 
 
 
-## 🧠 About Me
+##  About Me
 
 
 
-
-
-I’m an 18-year-old **South African** cybersecurity student crafting real-world offensive and defensive tooling with a sharp focus on **practicality**, **precision**, and **post-exploitation control**.
-
-
-
+I’m an 19 year old **South African** cybersecurity student crafting real-world offensive and defensive tooling with a sharp focus on **practicality** and **precision**.
 
 
 - Recon & OSINT tooling (automated & stealth)
-
-
-- Custom encryption with signature verification & hardened anti-crack logic
-
-
 - Microcontroller attacks (ESP32-based captive portals, fuzzers, handshakes)
-
-
-- File-based & embedded toolkits (mostly Python & C)
-
 
 
 
@@ -91,11 +68,7 @@ I’m an 18-year-old **South African** cybersecurity student crafting real-world
 ---
 
 
-
-
-
-## ⚙️ Skills & Stack
-
+##  Skills
 
 
 
@@ -106,34 +79,28 @@ I’m an 18-year-old **South African** cybersecurity student crafting real-world
 |--------------|----------------------------------------------------------------------------------------------------|
 
 
-| **Languages** | `Python`, `C`, `Bash`, `HTML` <br><sub>(Actively improving low-level fluency)</sub>               |
+| **Languages** | `Python`, `C`, `Bash`, `HTML`                                                                     |
 
 
-| **Security**  | `Burp Suite`, `Nmap`, `Wireshark`, `Kali Linux`, `OpenSSL`, `Metasploit`                          |
+| **Security**  | `Encryption`, `Hardening` , `System Configurations` , `VPN / VPS` , `Kerbos`                      |
 
 
 | **Embedded**  | `ESP32`, `Arduino`                                                                                |
 
 
-| **Tooling**   | `SHA-256`, `PBKDF2`, `HWID Binding/Authorization`, `Webhook Auditing`, `File Shredding`           |
+| **Tooling**   | `MSF`, `BurpSuite` , `Netcat` , `Port Scanners` , `SQLi` , `BloodHound`                           |
 
 
 
 
 
----
+##  Current Objectives
 
 
 
 
 
-## 🎯 Current Objectives
-
-
-
-
-
-- Finalize cert prep: `Security+`, `Linux+`, `Network+`, and `OSCP`
+- Finalize `OSCP`
 
 
 - Expand offensive tooling skillset & methodology fluency
@@ -142,6 +109,8 @@ I’m an 18-year-old **South African** cybersecurity student crafting real-world
 - Build out red team automation: recon, exfil, stealth persistence
 
 
+- Familiarize myself with low level languages to acquire a skillset in reverse engineering
+
 
 
 
@@ -151,7 +120,7 @@ I’m an 18-year-old **South African** cybersecurity student crafting real-world
 
 
 
-## 📜 Disclosure & Ethics
+##  Disclosure & Ethics
 
 
 
@@ -175,7 +144,7 @@ If you believe one of my tools or repos raises security concerns or could be mis
 
 
 
-## 📡 Contact & Network
+##  Contact & Network
 
 
 
@@ -184,52 +153,19 @@ If you believe one of my tools or repos raises security concerns or could be mis
 | Platform | Link |
 
 
-|---------|------|
-
-
-| **Email** | [`j0xhsec@proton.me`](mailto:j0xhsec@proton.me) |
+| **Email** | [`j0xhsec@proton.me`](mailto:xorsecret@proton.me) |
 
 
 | **GitHub** | [github.com/j0xh](https://github.com/j0xh) |
 
 
-| **LinkedIn** | *DM if needed* |
-
-
-
-
 
 ---
-
-
-
-
-
-<p align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=j0xh&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats" />
-
-
-</p>
-
-
-
-
-
----
-
-
-
-
 
 <sub><i>
 
 
-Code is clean. Purpose is sharp. Security is non-negotiable.  
-
-
-Hacking isn't a hobby — it’s the weaponization of curiosity.
+Security is non-negotiable.  
 
 
 </i></sub>
