@@ -132,7 +132,7 @@ All code is strictly for **authorized engagements** and **educational purposes**
 
 
 
-If you believe one of my tools or repos raises security concerns or could be misused, please contact me at **j0xhsec@proton.me** for immediate resolution or disclosure.
+If you believe one of my tools or repos raises security concerns or could be misused, please contact me at **xorsecret@proton.me** for immediate resolution or disclosure.
 
 
 
@@ -169,3 +169,4 @@ Security is non-negotiable.
 
 
 </i></sub>
+
