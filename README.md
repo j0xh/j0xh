@@ -4,13 +4,11 @@
 
 <h1 align="center">j0xh</h1>
 
+
 <p align="center">
  · Red Teamer ·
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=j0xh&style=flat-square&color=grey&label=views" />
-</p>
 
 <br>
 
@@ -68,4 +66,8 @@
   <a href="https://github.com/j0xh">
     <img src="https://img.shields.io/badge/github-j0xh-black?style=flat-square&logo=github" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=j0xh&style=flat-square&color=gray&label=👁" />
 </p>
